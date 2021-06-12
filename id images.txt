@@ -1,0 +1,53 @@
+id images
+template: https://drive.google.com/uc?export=view&id=
+
+w3newbie-white.png:
+    https://drive.google.com/file/d/1jw9a6qb486YW9P3Bm1nPF2fCgM68nZDw/view?usp=sharing
+
+    https://drive.google.com/uc?export=view&id=1jw9a6qb486YW9P3Bm1nPF2fCgM68nZDw
+
+
+img/1200x700.jpg
+    https://drive.google.com/file/d/1gRKYruuEQMVsDMm9mzIovrPZ_ULnCV4H/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1gRKYruuEQMVsDMm9mzIovrPZ_ULnCV4H
+
+img/380x280.jpg
+    https://drive.google.com/file/d/1BnSmO3jI4mF7y8o9JLDnz7X4WGlMQ5YZ/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1BnSmO3jI4mF7y8o9JLDnz7X4WGlMQ5YZ
+
+
+img/380x280-2.jpg
+    https://drive.google.com/file/d/1R9mFQkqknLbvibU3ypGYs3NBAfgMZPDE/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1R9mFQkqknLbvibU3ypGYs3NBAfgMZPDE
+
+
+img/380x280-3.jpg
+    https://drive.google.com/file/d/1sjSpjSKXA1HxMSmIc4MILWSLnAZTMBeY/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1sjSpjSKXA1HxMSmIc4MILWSLnAZTMBeY
+
+
+
+img/white-facebook.png
+    https://drive.google.com/file/d/12JLpilhQRmRF7mwwtYIRp7RHwqLnxVPK/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=12JLpilhQRmRF7mwwtYIRp7RHwqLnxVPK
+
+img/white-twitter.png
+    https://drive.google.com/file/d/1bFij6TmvEa24ji0i23SW7WyHYAehaSZX/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1bFij6TmvEa24ji0i23SW7WyHYAehaSZX
+
+img/white-youtube.png
+    https://drive.google.com/file/d/1B3OvVgtrJP2yuGMSjo1H-gex65U8_gqK/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1B3OvVgtrJP2yuGMSjo1H-gex65U8_gqK
+
+img/white-linkedin.png
+    https://drive.google.com/file/d/1JolMwH2ZwWWJj6XD7Y3d9LgvTZnR6a0a/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1JolMwH2ZwWWJj6XD7Y3d9LgvTZnR6a0a
+
+img/white-instagram.png
+    https://drive.google.com/file/d/1ODHZBnt7ecEEs5mw7JB5WBKvedyalDmG/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1ODHZBnt7ecEEs5mw7JB5WBKvedyalDmG
+
+
+img/w3newbie.png
+    https://drive.google.com/file/d/1NgagJk6ustKkSq8OGwSYXDjK2fNxK9rW/view?usp=sharing
+    https://drive.google.com/uc?export=view&id=1NgagJk6ustKkSq8OGwSYXDjK2fNxK9rW
